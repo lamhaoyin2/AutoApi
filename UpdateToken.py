@@ -79,7 +79,7 @@ def getmstoken(appnum):
             if retry_ == 3:
                 print(r'账号/应用 '+str(appnum+1)+' 的微软密钥获取失败'+'\n'+'请检查secret里 account_ID , account_SECRET , MS_TOKEN 格式与内容是否正确，然后重新设置')
     jsontxt = json.loads(html.text)
-    print(html.text)
+    # print(html.text)
     refresh_token = jsontxt['refresh_token']
     return refresh_token
 
