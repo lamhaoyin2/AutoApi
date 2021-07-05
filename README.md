@@ -4,6 +4,7 @@ AutoApi系列：~~AutoApi(v1.0)~~、~~AutoApiSecret(v2.0)~~、~~AutoApiSR(v3.0)~
 minor update on 27 Mar
 
 Minor update again on `5 May`
+Minor update again on `5 July`
 
 ## 说明 ##
 * E5自动续期程序，但是**不保证续期**
